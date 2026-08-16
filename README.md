@@ -2,7 +2,7 @@
 
 # 🚀 Awesome MCP Servers
 
-**The MCP ecosystem for Cursor, Claude Code, and Kimi Code. One config file. Infinite capabilities.**
+**The MCP ecosystem for Cursor, Claude Code, and Kimi Code. One config file. Real superpowers.**
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
@@ -218,6 +218,14 @@ Absolutely. The MCP SDK is available for [TypeScript](https://github.com/modelco
 </details>
 
 ---
+
+## See Also
+
+| Project | Description |
+|---------|-------------|
+| [**awesome-ai-rules**](https://github.com/OWNER/awesome-ai-rules) | 20 production-ready AI coding rules |
+| [**vibe-check**](https://github.com/OWNER/vibe-check) | `npx vibe-check` — Score your project's AI-readiness |
+| [**ai-commit**](https://github.com/OWNER/ai-commit) | `npx ai-commit` — AI writes your commit messages |
 
 ## Contributing
 
