@@ -231,7 +231,7 @@ Absolutely. The MCP SDK is available for [TypeScript](https://github.com/modelco
 
 | Project | Description |
 |---------|-------------|
-| [**awesome-ai-rules**](https://github.com/liangzhengtao/awesome-ai-rules) | 20 production-ready AI coding rules |
+| [**awesome-ai-rules**](https://github.com/liangzhengtao/awesome-ai-rules) | 20 production AI coding rules |
 | [**vibe-check**](https://github.com/liangzhengtao/vibe-check) | `npx vibe-check` — Score your project's AI-readiness |
 | [**ai-commit**](https://github.com/liangzhengtao/ai-commit) | `npx ai-commit` — AI writes your commit messages |
 
