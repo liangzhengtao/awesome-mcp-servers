@@ -30,7 +30,7 @@ MCP servers for database access — query, explore, cache, and manage your data 
 3. **Redis** — Set up caching layer
 4. **Filesystem** — Update ORM models
 
-## Security Best Practices
+## Security Proven Patterns
 
 - Use **read-only** database connections for production
 - Create **dedicated users** with minimal permissions

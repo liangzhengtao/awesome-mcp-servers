@@ -46,7 +46,7 @@ Set `BRAVE_API_KEY` as an environment variable.
 - Search the web for any topic in real-time
 - Look up library documentation and API references
 - Find solutions to error messages and bugs
-- Research best practices and design patterns
+- Research proven patterns and design patterns
 - Get current news and updates on technologies
 
 ## Requirements
